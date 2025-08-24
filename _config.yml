@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "leviosalev / tayyaba.github.io"
 title_separator          : "-"
 name                     : &name "Tayyaba Noureen"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Tayyaba Noureen"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Physics Student"
   location         : "Lahore, Pakistan"
   employer         : "Lahore University of Management Sciences"
   uri              : # URL
