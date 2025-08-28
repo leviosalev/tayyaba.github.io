@@ -41,3 +41,8 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Custom background */
+body {
+  background: url("/images/port_bg.png") no-repeat center center fixed;
+  background-size: cover;
+}
