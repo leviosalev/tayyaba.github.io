@@ -363,3 +363,9 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
       display: none;
     }
   }
+
+/* Custom site background */
+body {
+  background: url("/images/port_bg.png") no-repeat center center fixed !important;
+  background-size: cover !important;
+}
