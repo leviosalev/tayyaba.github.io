@@ -3,6 +3,7 @@ permalink: /
 title: "Welcome"
 author_profile: true
 ---
-Hi, I am **Tayyaba Noureen**. I graduated with a BS in Physics from Lahore University of Management Sciences in July 2025.  
-
-Welcome to my academic and research portfolio. Here you will find details of my projects, research experience, and teaching roles, along with links to relevant reports and presentations.
+Hi, I’m Tayyaba Noureen.
+I recently graduated with a BS in Physics from LUMS (2025).  
+My research focuses on gravitational waves, compact binaries, and data science.  
+This site highlights my projects, teaching, and writing.  
