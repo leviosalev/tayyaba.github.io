@@ -30,3 +30,26 @@ In this independent project, I studied the Oppenheimer–Snyder model of gravita
 *Spring 2024*  
 
 I investigated bound muon decay as a probe of physics beyond the Standard Model. I solved the Dirac equation in a Coulomb potential to obtain the ground-state wavefunctions of bound muons and used them to compute decay rates in both relativistic and non-relativistic limits. Comparing bound and free muon decays highlighted subtle differences with possible sensitivity to new physics. This project gave me experience in bridging quantum field theory with atomic physics methods to explore precision tests of particle physics.  
+
+---
+
+## Data Analysis and Machine Learning  
+
+### Exploratory Data Analysis of PakWheels Dataset (Spring 2025)  
+I worked with a dataset of over 10,000 car listings scraped from PakWheels.com to uncover pricing and demand trends in Pakistan’s automobile market. Using Python (Pandas, Seaborn), I examined engine capacity distributions, city-wise demand variations, and factors influencing resale prices. To test predictive performance, I built regression and decision-tree models that achieved ~85% accuracy in predicting car prices. I also experimented with feature engineering and techniques for handling missing/categorical data. The results were summarized in a [Medium blog post](https://medium.com/@25100223/a-data-driven-analysis-of-pakwheels-com-7e153890d514).  
+
+---
+
+## Quantum Mechanics II  
+
+### Optical Pumping: Lasers and Masers (Spring 2023)  
+For this course project, I explored the physics of two-level systems, time-dependent perturbation theory, and the role of spontaneous and stimulated emission in laser physics. I derived Einstein’s coefficients, studied single-mode resonances, and modeled optical pumping in an active medium. The work combined theoretical derivations with conceptual illustrations of how resonances and pumping enable the operation of lasers and masers. [Report PDF](assets/research/Optical_Pumping_Project_Report.pdf)  
+
+---
+
+## Magnetism: Theory and Experiment  
+
+### Landau Theory of Fermi Liquids (Fall 2024)  
+In this project, I studied Landau’s theory of Fermi liquids, which generalizes the free Fermi gas model to include electron-electron interactions. I explored how quasiparticles arise as single-particle excitations dressed with interaction effects, altering effective mass and lifetime. The report developed both qualitative intuition and quantitative calculations of measurable quantities such as heat capacity, compressibility, and magnetic susceptibility in terms of Landau parameters. I derived the effective mass relation from Galilean invariance and examined how the smooth evolution from Fermi gas to Fermi liquid avoids phase transitions. This work followed Kruger’s notes and other condensed matter references, and it strengthened my understanding of many-body physics. [Report PDF](assets/research/Magnetism_Project_Tayyaba_Noureen.pdf)  
+
+
