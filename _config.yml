@@ -23,7 +23,7 @@ repository: "leviosalev/tayyaba.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "grad.png"
   name             : "Tayyaba Noureen"
   pronouns         : "she/her"  
   bio              : "Physics Student"
