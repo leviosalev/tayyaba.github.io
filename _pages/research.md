@@ -23,7 +23,7 @@ Gravitational waves provide a unique lens into the universe, carrying informatio
 
 In my senior year project, I studied the theoretical foundations of waveform construction within this PN framework. I began by deriving the quadrupole formula directly from the linearized Einstein equations and linking it to observations through the classic binary pulsar example. I then constructed Newtonian-limit waveforms in Maple, generating visualizations of strain, orbital velocity, and inspiral trajectories to illustrate coalescence dynamics. Building on this foundation, I implemented the TaylorF2 waveform model in Python for quasi-circular binaries, which allowed me to explore its limitations and identify the need for future extensions to spin-precessing and beyond-GR models.
 
-🔗 [View my thesis here]([https://your-report-link.com](https://leviosalev.github.io/tayyaba-noureen-portfolio/assets/Tayyaba-Noureen-Gravitational-Waves-from-Compact-Binaries-Foundations-and-Waveform-Construction-2025.pdf)
+🔗 [View my thesis here](https://leviosalev.github.io/tayyaba-noureen-portfolio/assets/Tayyaba-Noureen-Gravitational-Waves-from-Compact-Binaries-Foundations-and-Waveform-Construction-2025.pdf)
  
 
 ---
@@ -51,6 +51,7 @@ I studied the Oppenheimer–Snyder model of gravitational collapse, synthesizing
 Although highly idealized, this “dust collapse” model is analytically solvable and captures universal features of gravitational collapse: the emergence of singularities, the formation of horizons, and the fact that distant observers see collapse freeze at the horizon. Its simplicity makes it a powerful way to build intuition for more general and realistic collapse scenarios.
 
 📄 [View my project report here](https://leviosalev.github.io/tayyaba-noureen-portfolio/assets/Tayyaba_Noureen_Gravitational_Collapse.pdf)
+
 📊 [View my presentation slides here](https://leviosalev.github.io/tayyaba-noureen-portfolio/assets/Gravitational_Collapse_Presentation.pdf)
 
 
@@ -62,6 +63,7 @@ Although highly idealized, this “dust collapse” model is analytically solvab
 Bound muon decay provides a sensitive probe of physics beyond the Standard Model, since even small deviations from free decay rates could signal new interactions. In this project, I solved the Dirac equation in a Coulomb potential to obtain the ground-state wavefunctions of bound muons and used them to compute decay rates in both relativistic and non-relativistic limits. Comparing bound and free muon decays highlighted subtle differences that could be exploited in precision tests of particle physics.
 
 📄 [View my report here](https://leviosalev.github.io/tayyaba-noureen-portfolio/assets/Bound_Muon_Decay_25100223_and_25100114.pdf)
+
 📊 [View my presentation slides here](https://leviosalev.github.io/tayyaba-noureen-portfolio/assets/Bound_Muon_Decay_Presentation.pdf)
 
 ---
@@ -72,6 +74,7 @@ Bound muon decay provides a sensitive probe of physics beyond the Standard Model
 Lasers and masers rely on the controlled interaction between matter and radiation, where resonance and population inversion drive coherent emission. For this project, I explored the physics of two-level systems using time-dependent perturbation theory and analyzed the roles of spontaneous and stimulated emission. I derived Einstein’s coefficients, studied single-mode resonances, and modeled optical pumping in an active medium. This work linked abstract quantum mechanics to the practical mechanisms that make lasers and masers possible.
 
 📄 [View my report here](https://leviosalev.github.io/tayyaba-noureen-portfolio/assets/Optical_Pumping_Project_Report.pdf)
+
 📊 [View my presentation slides here](https://leviosalev.github.io/tayyaba-noureen-portfolio/assets/Optical_Pumping_Presentation.pdf)
 
 ---
